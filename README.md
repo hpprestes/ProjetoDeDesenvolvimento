@@ -1,15 +1,49 @@
 ProjetoDeDesenvolvimento
 ========================
-
-Equipe
-
-  Couch = Shirlei
-  Customer = Henrique
-  Programmer = Shirlei, Henrique e William
-  Programmer (Administrator) = Ândrei
-  Tester = Shirlei, Henrique, William e Ândrei
-  Tracker = William
-
+<html>
+<h2>Equipe<h2>
+<table><tr><td>
+  Couch 
+</td><td>
+Shirlei
+</td>
+<tr>
+<td>
+  Customer
+</td><td>
+  Henrique
+</td>
+</tr>
+<tr>
+<td>
+  Programmer  
+</td><td>
+Shirlei, Henrique e William
+</td>
+</tr>
+<tr>
+<td>
+  Programmer (Administrator) 
+</td><td>
+  Ândrei
+</td>
+</tr>
+<tr>
+<td>
+  Tester 
+</td><td>
+Shirlei, Henrique, William e Ândrei
+</td>
+</tr>
+<tr>
+<td>
+  Tracker 
+</td><td>
+William  
+<td>
+</tr>
+  </table>
+</html>
 
 Links úteis:
 
