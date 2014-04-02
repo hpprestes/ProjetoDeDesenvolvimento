@@ -3,16 +3,20 @@ SUPER LISTA
 Visão
 
 Problema
---------
-	
-----------
+Perder tempo na confecção de listas de compras de supermercado
 
-	Descrição
-	---------
+Descrição
+Stakeholders
+- usuário em geral: quem decidir usar o aplicativo para gerar e gerenciar suas listas de compras
+- professora: quem aprova as etapas de desenvolvimento e dá a nota final do projeto
 	
 Características do Sistema
---------------------------
-	
-Características do Produto
---------------------------
-	
+- desenvolvido em java para rodar em sistema android	
+- utiliza o banco sqlite
+- permite a criação de listas de itens classificados em categorias
+- permite a alteração das listas	
+- permite a inclusão e alteração dos itens nas categorias
+- permite a inclusão e alteração das categorias
+- permite marcar os itens já comprados nas listas
+- permite incluir fotos nos itens
+- permite enviar as listas por email ou sms
