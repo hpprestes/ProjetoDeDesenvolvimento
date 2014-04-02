@@ -3,4 +3,40 @@ Histórias
 XP
 
 	|USUÁRIO|
+O sistema já vem com uma lista de produtos organizada por categorias.
+	
+HU1. Como usuário eu devo poder criar listas de compras 
+	HU1C01 Cenário normal de sucesso lista vazia
+		O usuário preenche o campo do nome da nova lista
+			(Lista01)
+		Sistema mostra a lista vazia e o botão para inserção de produtos
+		O usuário finaliza o processo salvando a lista
+		O sistema retorna para a tela inicial
+	Término do HU1C01
+
+	HU1C02 Cenário normal de sucesso lista com produtos 
+		O usuário preenche o campo do nome da nova lista
+			(Lista01)
+		Sistema mostra a lista vazia e o botão para inserção de produtos
+		O usuário seleciona a opção “inserção”
+		O Sistema mostra a lista de produtos pré cadastrados e o campo de busca
+
+		escolhe os produtos da lista ou insere novos produtos pelo campo de  
+			(ovos, bebidas, pão…)
+		O usuário retorna para a lista com os produtos inseridos
+	Término do HUXC02
+
+
+HU2. Como usuário eu devo poder manter as listas
+	
+HU3. Como usuário eu devo poder manter as categorias
+
+HU4. Como usuário eu devo poder manter os itens
+	
+HU5. Como usuário eu devo poder marcar itens como já comprados nas listas
+
+HU6. Como usuário eu devo poder incluir fotos nos itens
+
+HU7. Como usuário eu devo poder enviar as listas por email ou sms
+
 	
